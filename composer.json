@@ -1,5 +1,5 @@
 {
-    "name": "kalprajsolutions/laravel-onedrive-filesystem",
+    "name": "tamsinrose/laravel-onedrive-filesystem",
     "description": "OneDrive filesystem driver for Laravel using Microsoft Graph API",
     "type": "library",
     "license": "MIT",
